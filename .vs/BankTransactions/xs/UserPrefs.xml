@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{23FF4036-B634-4400-AB2C-60621B859029}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BankTransactions PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument=".editorconfig">
+    <Files>
+      <File FileName=".editorconfig" Line="5" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BankTransactions" expanded="True">
+            <Node name="Solution Items" expanded="True">
+              <Node name="/Users/diegogarciacarrasco/Documents/GitHub/BankTransactions/.editorconfig" selected="True" />
+            </Node>
+            <Node name="BankTransactions" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
