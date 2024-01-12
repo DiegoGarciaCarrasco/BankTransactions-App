@@ -6,13 +6,10 @@
 This ASP.NET Core MVC project features CRUD operations using Entity Framework Core and is underpinned by a containerized Azure SQL Edge database, showcasing the integration of cutting-edge database technologies in modern web application development.
 
 
-
-
-
 ## Technologies Used
 
-- [x] **ASP.NET Core MVC:** <!--
-    * Utilized for crafting the web application using the MVC design pattern, ensuring a clean separation of concerns and enhanced maintainability.-->
+- [x] **ASP.NET Core MVC:** 
+    <!--* Utilized for crafting the web application using the MVC design pattern, ensuring a clean separation of concerns and enhanced maintainability.-->
 - [x] **Entity Framework Core:** 
     * Employed for efficient Object-Relational Mapping, enabling seamless interactions between the application and the SQL database.
 - [x] **Azure SQL Edge (Docker Container):** 
@@ -23,29 +20,26 @@ This ASP.NET Core MVC project features CRUD operations using Entity Framework Co
     * IDE used, leveraging its comprehensive suite of tools for .NET development.
 
 
-
 ## Architecture
 
-* **Model-View-Controller (MVC):** 
+- [x] **Model-View-Controller (MVC):** 
     * The application follows the MVC architectural pattern.
-* **Entity Framework Core DB First Approach:** 
+- [x] **Entity Framework Core DB First Approach:** 
     * Directly mapped the database schema to the business domain entities, resulting in a database-driven application design.
-* **Dependency Injection:** 
+- [x] **Dependency Injection:** 
     * Leveraged built-in dependency injection in ASP.NET Core for managing services and database context, ensuring loose coupling and testability.
-
 
 
 ## Methodologies
 
-* **CRUD Operations:** 
+- [x] **CRUD Operations:** 
     * Implementation of basic database operations: Create, Read, Update, Delete.
-* **Dependency Injection:** 
+- [x] **Dependency Injection:** 
     * Used extensively for managing services and database context.
-* **Data Annotations:** 
+- [x] **Data Annotations:** 
     * Used for model validation and database schema configuration.
-* **Client-side and Server-side Validation:** 
+- [x] **Client-side and Server-side Validation:** 
     * Ensuring data integrity both on the client and server sides.
-
 
 
 ## App Walkthrough
@@ -79,7 +73,6 @@ This ASP.NET Core MVC project features CRUD operations using Entity Framework Co
 
 * **..."**
 ![image-10](./images/SS10.png)
-
 
 
 ---
