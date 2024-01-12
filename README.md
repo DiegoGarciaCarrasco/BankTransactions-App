@@ -22,11 +22,11 @@ This project demonstrates CRUD (Create, Read, Update, Delete) operations in an A
 ### Architecture
 
 * **Model-View-Controller (MVC):** 
-        * The application follows the MVC architectural pattern.
+    * The application follows the MVC architectural pattern.
 * **Entity Framework Core DB First Approach:** 
-        * Directly mapped the database schema to the business domain entities, resulting in a database-driven application design.
+    * Directly mapped the database schema to the business domain entities, resulting in a database-driven application design.
 * **Dependency Injection:** 
-        * Leveraged built-in dependency injection in ASP.NET Core for managing services and database context, ensuring loose coupling and testability.
+    * Leveraged built-in dependency injection in ASP.NET Core for managing services and database context, ensuring loose coupling and testability.
 
 
 ### Methodologies
