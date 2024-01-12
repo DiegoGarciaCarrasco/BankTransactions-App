@@ -5,7 +5,7 @@
 
 This project demonstrates CRUD (Create, Read, Update, Delete) operations in an ASP.NET Core MVC application using Entity Framework Core.
 
-### Technologies Used
+## Technologies Used
 
 * **ASP.NET Core MVC:** 
     * Utilized for crafting the web application using the MVC design pattern, ensuring a clean separation of concerns and enhanced maintainability.
@@ -19,7 +19,7 @@ This project demonstrates CRUD (Create, Read, Update, Delete) operations in an A
     * IDE used, leveraging its comprehensive suite of tools for .NET development.
 
 
-### Architecture
+## Architecture
 
 * **Model-View-Controller (MVC):** 
     * The application follows the MVC architectural pattern.
@@ -29,7 +29,7 @@ This project demonstrates CRUD (Create, Read, Update, Delete) operations in an A
     * Leveraged built-in dependency injection in ASP.NET Core for managing services and database context, ensuring loose coupling and testability.
 
 
-### Methodologies
+## Methodologies
 
 * **CRUD Operations:** 
     * Implementation of basic database operations: Create, Read, Update, Delete.
