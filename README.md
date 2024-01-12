@@ -49,7 +49,7 @@ This ASP.NET Core MVC project features CRUD operations using Entity Framework Co
 * **This screenshot shows Azure SQL Edge running within a Docker container, demonstrating the setup of a scalable and isolated database environment.** 
 ![image-1](./images/SS1.png)
 
-* **Here, Azure Data Studio displays the Transaction Database, showcasing the effective management and querying capabilities of the tool as well as records prevously inserted to the system.** 
+* **Here, Azure Data Studio displays the Transaction Database, showcasing the effective management and querying capabilities of the tool as well as records previously inserted into the system.** 
 ![image-2](./images/SS2.png)
 
 * **The project's structure and folder hierarchy are illustrated here, with a focus on the TransactionController.cs file, which is central to our CRUD operations.**
