@@ -13,7 +13,9 @@ This ASP.NET Core MVC project features CRUD operations using Entity Framework Co
 - [x] **Entity Framework Core**
     <!--* Employed for efficient Object-Relational Mapping, enabling seamless interactions between the application and the SQL database.-->
 - [x] **Azure SQL Edge (Docker Container)**
-    <!--* Integrated a high-performance, scalable SQL database using Docker.
+    <!--* Integrated a high-performance, scalable SQL database using Docker.-->
+- [x] **Azure Data Studio**
+    <!--* Used for database management and query execution, enhancing database interaction and management.-->
 - [x] **Bootstrap & FontAwesome**
     <!--* Enhanced the user interface with responsive design and visually appealing icons.-->
 - [x] **Visual Studio 2022**
