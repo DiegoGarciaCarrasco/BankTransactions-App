@@ -6,6 +6,16 @@
 This ASP.NET Core MVC project features CRUD operations using Entity Framework Core and is underpinned by a containerized Azure SQL Edge database, showcasing the integration of cutting-edge database technologies in modern web application development.
 
 
+## User Stories
+
+The following functionality is achieved:
+
+- [x] User can add a new transaction.
+- [x] User can edit a transaction.
+- [x] User can remove a transaction.
+
+---
+
 ## Technologies and Tools
 
 - [x] ASP.NET Core MVC
@@ -43,6 +53,7 @@ This ASP.NET Core MVC project features CRUD operations using Entity Framework Co
 - [x] Database Migrations
     <!--* Utilized EF Core migrations for updating and managing the database schema.-->
 
+---
 
 ## App Walkthrough
 
