@@ -1,9 +1,8 @@
 # BankTransactions Asp.Net App
 
----
 ## Overview
 
-This ASP.NET Core MVC project features CRUD operations using Entity Framework Core and is underpinned by a containerized Azure SQL Edge database, showcasing the integration of cutting-edge database technologies in modern web application development.
+This ASP.NET Core MVC application utilizes Entity Framework Core for CRUD operations and integrates a containerized Azure SQL Edge database, demonstrating advanced database technology in web development.
 
 
 ## User Stories
