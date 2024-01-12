@@ -3,7 +3,9 @@
 ---
 ## Overview
 
-This project demonstrates CRUD (Create, Read, Update, Delete) operations in an ASP.NET Core MVC application using Entity Framework Core.
+This ASP.NET Core MVC project features CRUD operations using Entity Framework Core and is underpinned by a containerized Azure SQL Edge database, showcasing the integration of cutting-edge database technologies in modern web application development.
+
+
 
 
 
