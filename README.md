@@ -71,7 +71,7 @@ The following functionality is achieved:
 
 ### User Story: User can Edit a transaction.
 
-* **1- Web application's Transaction Index-View in action, displaying a list of transactions managed by the system.**
+* **1 - Web application's Transaction Index-View in action, displaying a list of transactions managed by the system.**
 ![image-4](./images/SS4.png)
 
 * **2 - The Transaction AddOrEdit-View is shown here, triggered by selecting the 'Edit' button for a transaction, ready for data modification.**
