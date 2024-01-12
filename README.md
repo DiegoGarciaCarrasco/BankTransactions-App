@@ -62,12 +62,13 @@ The following functionality is achieved:
 * **1 - Azure SQL Edge running within a Docker container.** 
 ![image-1](./images/SS1.png)
 
-* **2 - Azure Data Studio displaying the Transaction Database.** 
+* **2 - Azure Data Studio displaying the Transaction DB.** 
 ![image-2](./images/SS2.png)
 
-* **3 - Project's structure and displaying the TransactionController.cs file, central to CRUD operations.**
+* **3 - Project's structure, displaying the 'TransactionController.cs' file, central to CRUD operations.**
 ![image-3](./images/SS3.png)
 
+---
 
 ### User Story: User can Edit a transaction.
 
@@ -83,6 +84,7 @@ The following functionality is achieved:
 * **4 - Post-edit, this view displays the Transaction with the updated 'Account Number', confirming the successful data modification."**
 ![image-7](./images/SS7.png)
 
+---
 
 ### User Story: User can Add a new transaction.
 
@@ -98,6 +100,7 @@ The following functionality is achieved:
 * **4 - Verifying the persistence of edited and newly added transactions in the Transaction Database, ensuring data integrity and accuracy.**
 ![image-10](./images/SS11.png)
 
+---
 
 ### User Story: User can Remove a transaction.
 
