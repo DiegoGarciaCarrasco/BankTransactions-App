@@ -56,6 +56,9 @@ The following functionality is achieved:
 
 ## App Walkthrough
 
+
+### App setup
+
 * **This screenshot shows Azure SQL Edge running within a Docker container, demonstrating the setup of a scalable and isolated database environment.** 
 ![image-1](./images/SS1.png)
 
@@ -64,6 +67,9 @@ The following functionality is achieved:
 
 * **The project's structure and folder hierarchy are illustrated here, with a focus on the TransactionController.cs file, which is central to our CRUD operations.**
 ![image-3](./images/SS3.png)
+
+
+### User Story: User can edit a transaction.
 
 * **This image captures the web application's Transaction Index View in action, displaying a list of transactions managed by the system.**
 ![image-4](./images/SS4.png)
@@ -77,6 +83,9 @@ The following functionality is achieved:
 * **Post-edit, this view displays the Transaction with the updated 'Account Number', confirming the successful data modification."**
 ![image-7](./images/SS7.png)
 
+
+### User Story: User can add a new transaction.
+
 * **This image showcases the Transaction AddOrEdit View, ready for entering a new transaction's details, demonstrating the application's capacity for data addition.**
 ![image-8](./images/SS8.png)
 
@@ -85,6 +94,9 @@ The following functionality is achieved:
 
 * **The final screenshot verifies the persistence of edited and newly added transactions in the Transaction Database, ensuring data integrity and accuracy.**
 ![image-10](./images/SS10.png)
+
+
+### User Story: User can remove a transaction.
 
 
 ---
