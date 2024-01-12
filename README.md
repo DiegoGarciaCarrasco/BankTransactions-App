@@ -5,6 +5,8 @@
 
 This project demonstrates CRUD (Create, Read, Update, Delete) operations in an ASP.NET Core MVC application using Entity Framework Core.
 
+
+
 ## Technologies Used
 
 * **ASP.NET Core MVC:** 
@@ -19,6 +21,7 @@ This project demonstrates CRUD (Create, Read, Update, Delete) operations in an A
     * IDE used, leveraging its comprehensive suite of tools for .NET development.
 
 
+
 ## Architecture
 
 * **Model-View-Controller (MVC):** 
@@ -27,6 +30,7 @@ This project demonstrates CRUD (Create, Read, Update, Delete) operations in an A
     * Directly mapped the database schema to the business domain entities, resulting in a database-driven application design.
 * **Dependency Injection:** 
     * Leveraged built-in dependency injection in ASP.NET Core for managing services and database context, ensuring loose coupling and testability.
+
 
 
 ## Methodologies
@@ -40,7 +44,9 @@ This project demonstrates CRUD (Create, Read, Update, Delete) operations in an A
 * **Client-side and Server-side Validation:** 
     * Ensuring data integrity both on the client and server sides.
 
-## App Demo
+
+
+## App Walkthrough
 
 * **...** 
 ![image-1](./images/SS1.png)
@@ -74,14 +80,8 @@ This project demonstrates CRUD (Create, Read, Update, Delete) operations in an A
 
 
 
-
 ---
-## Discussion
+## Final Thoughts
 
-* **...**
+* **This project exemplifies modern web application development, merging ASP.NET Core MVC with Entity Framework Core and Dockerized Azure SQL Edge, showcasing advanced integration of key technologies and best practices.**
 
-....
-
-* **...**
-
-...
