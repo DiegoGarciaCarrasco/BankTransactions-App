@@ -101,6 +101,18 @@ The following functionality is achieved:
 
 ### User Story: User can Remove a transaction.
 
+* **1 - Pressing the 'Delete' button for a certain transaction.**
+![image-12](./images/SS12.png)
+
+* **2 - Pressing 'OK' in the deletion confirmation box.**
+![image-13](./images/SS13.png)
+
+* **3 - Transaction Index-View automatically updated without displaying the last deleted transaction record.**
+![image-14](./images/SS14.png)
+
+* **4 - Verifying deletion recorded in the Transaction Database, ensuring data integrity and accuracy.**
+![image-15](./images/SS15.png)
+
 
 ---
 ## Final Thoughts
