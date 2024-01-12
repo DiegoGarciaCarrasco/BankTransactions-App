@@ -10,15 +10,16 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="BankTransactions" expanded="True">
-            <Node name="Solution Items" expanded="True">
-              <Node name="/Users/diegogarciacarrasco/Documents/GitHub/BankTransactions/.editorconfig" selected="True" />
-            </Node>
+          <Node name="BankTransactions">
             <Node name="BankTransactions" expanded="True">
               <Node name="Dependencies" expanded="True">
                 <Node name="FrameworkReferences" expanded="True" />
                 <Node name="PackageDependencies" expanded="True" />
               </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Transaction" expanded="True" />
+              </Node>
+              <Node name=".editorconfig" selected="True" />
             </Node>
           </Node>
         </State>
