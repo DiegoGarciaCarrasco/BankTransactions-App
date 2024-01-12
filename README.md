@@ -62,10 +62,10 @@ The following functionality is achieved:
 * **1 - Azure SQL Edge running within a Docker container.** 
 ![image-1](./images/SS1.png)
 
-* **2 - Azure Data Studio displaying the Transaction Database.** 
+* **2 - Azure Data Studio displaying the Transaction DB.** 
 ![image-2](./images/SS2.png)
 
-* **3 - Project's structure and displaying the TransactionController.cs file, central to CRUD operations.**
+* **3 - Project's structure, displaying the 'TransactionController.cs' file, central to CRUD operations.**
 ![image-3](./images/SS3.png)
 
 ---
