@@ -59,41 +59,44 @@ The following functionality is achieved:
 
 ### App setup
 
-* **This screenshot shows Azure SQL Edge running within a Docker container, demonstrating the setup of a scalable and isolated database environment.** 
+* **1 - Azure SQL Edge running within a Docker container.** 
 ![image-1](./images/SS1.png)
 
-* **Here, Azure Data Studio displays the Transaction Database, showcasing the effective management and querying capabilities of the tool as well as records previously inserted into the system.** 
+* **2 - Azure Data Studio displaying the Transaction Database.** 
 ![image-2](./images/SS2.png)
 
-* **The project's structure and folder hierarchy are illustrated here, with a focus on the TransactionController.cs file, which is central to our CRUD operations.**
+* **3 - Project's structure and displaying the TransactionController.cs file, central to CRUD operations.**
 ![image-3](./images/SS3.png)
 
 
 ### User Story: User can edit a transaction.
 
-* **This image captures the web application's Transaction Index View in action, displaying a list of transactions managed by the system.**
+* **1- Web application's Transaction Index View in action, displaying a list of transactions managed by the system.**
 ![image-4](./images/SS4.png)
 
-* **The Transaction AddOrEdit View is shown here, triggered by selecting the 'Edit' option for a transaction, ready for data modification.**
+* **2 - The Transaction AddOrEdit View is shown here, triggered by selecting the 'Edit' option for a transaction, ready for data modification.**
 ![image-5](./images/SS5.png)
 
-* **Illustrating the edit functionality, this screenshot shows the process of changing an account number and submitting the updated data.**
+* **3 - Illustrating the edit functionality, this screenshot shows the process of changing an account number and submitting the updated data.**
 ![image-6](./images/SS6.png)
 
-* **Post-edit, this view displays the Transaction with the updated 'Account Number', confirming the successful data modification."**
+* **4 - Post-edit, this view displays the Transaction with the updated 'Account Number', confirming the successful data modification."**
 ![image-7](./images/SS7.png)
 
 
 ### User Story: User can add a new transaction.
 
-* **This image showcases the Transaction AddOrEdit View, ready for entering a new transaction's details, demonstrating the application's capacity for data addition.**
+* **1 - Pressing 'New Transaction' button.**
 ![image-8](./images/SS8.png)
 
-* **The Transaction Index view here includes the newly added transaction, highlighting the system's real-time update capability.**
-![image-9](./images/SS9.png)
+* **2 - This image showcases the Transaction AddOrEdit View, ready for entering a new transaction's details, demonstrating the application's capacity for data addition.**
+![image-8](./images/SS9.png)
 
-* **The final screenshot verifies the persistence of edited and newly added transactions in the Transaction Database, ensuring data integrity and accuracy.**
-![image-10](./images/SS10.png)
+* **3 - The Transaction Index view here includes the newly added transaction, highlighting the system's real-time update capability.**
+![image-9](./images/SS10.png)
+
+* **4 - The final screenshot verifies the persistence of edited and newly added transactions in the Transaction Database, ensuring data integrity and accuracy.**
+![image-10](./images/SS11.png)
 
 
 ### User Story: User can remove a transaction.
