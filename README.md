@@ -78,5 +78,5 @@ This ASP.NET Core MVC project features CRUD operations using Entity Framework Co
 ---
 ## Final Thoughts
 
-* **This project exemplifies modern web application development, merging ASP.NET Core MVC with Entity Framework Core and Dockerized Azure SQL Edge, showcasing advanced integration of key technologies and best practices.**
+* This project exemplifies modern web application development, merging ASP.NET Core MVC with Entity Framework Core and Dockerized Azure SQL Edge, showcasing advanced integration of key technologies and best practices.
 
