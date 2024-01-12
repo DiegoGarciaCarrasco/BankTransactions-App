@@ -69,37 +69,37 @@ The following functionality is achieved:
 ![image-3](./images/SS3.png)
 
 
-### User Story: User can edit a transaction.
+### User Story: User can Edit a transaction.
 
-* **1- Web application's Transaction Index View in action, displaying a list of transactions managed by the system.**
+* **1- Web application's Transaction Index-View in action, displaying a list of transactions managed by the system.**
 ![image-4](./images/SS4.png)
 
-* **2 - The Transaction AddOrEdit View is shown here, triggered by selecting the 'Edit' option for a transaction, ready for data modification.**
+* **2 - The Transaction AddOrEdit-View is shown here, triggered by selecting the 'Edit' button for a transaction, ready for data modification.**
 ![image-5](./images/SS5.png)
 
-* **3 - Illustrating the edit functionality, this screenshot shows the process of changing an account number and submitting the updated data.**
+* **3 - Illustrating the edit functionality, this screenshot shows the process of updating transaction properties, in this case updating the 'Account Number' field and submitting the updated data.**
 ![image-6](./images/SS6.png)
 
 * **4 - Post-edit, this view displays the Transaction with the updated 'Account Number', confirming the successful data modification."**
 ![image-7](./images/SS7.png)
 
 
-### User Story: User can add a new transaction.
+### User Story: User can Add a new transaction.
 
 * **1 - Pressing 'New Transaction' button.**
 ![image-8](./images/SS8.png)
 
-* **2 - This image showcases the Transaction AddOrEdit View, ready for entering a new transaction's details, demonstrating the application's capacity for data addition.**
+* **2 - Displaying Transaction AddOrEdit-View, ready for entering a new transaction's details, demonstrating the application's capacity for data addition.**
 ![image-8](./images/SS9.png)
 
-* **3 - The Transaction Index view here includes the newly added transaction, highlighting the system's real-time update capability.**
+* **3 - The Transaction Index-View here includes the newly added transaction, highlighting the system's real-time update capability.**
 ![image-9](./images/SS10.png)
 
-* **4 - The final screenshot verifies the persistence of edited and newly added transactions in the Transaction Database, ensuring data integrity and accuracy.**
+* **4 - Verifying the persistence of edited and newly added transactions in the Transaction Database, ensuring data integrity and accuracy.**
 ![image-10](./images/SS11.png)
 
 
-### User Story: User can remove a transaction.
+### User Story: User can Remove a transaction.
 
 
 ---
