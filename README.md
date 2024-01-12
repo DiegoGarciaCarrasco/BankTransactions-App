@@ -8,39 +8,39 @@ This ASP.NET Core MVC project features CRUD operations using Entity Framework Co
 
 ## Technologies and Tools
 
-- [x] **ASP.NET Core MVC**
+- [x] ASP.NET Core MVC
     <!--* Utilized for crafting the web application using the MVC design pattern, ensuring a clean separation of concerns and enhanced maintainability.-->
-- [x] **Entity Framework Core**
+- [x] Entity Framework Core
     <!--* Employed for efficient Object-Relational Mapping, enabling seamless interactions between the application and the SQL database.-->
-- [x] **Azure SQL Edge (Docker Container)**
+- [x] Azure SQL Edge (Docker Container)
     <!--* Integrated a high-performance, scalable SQL database using Docker.-->
-- [x] **Azure Data Studio**
+- [x] Azure Data Studio
     <!--* Used for database management and query execution, enhancing database interaction and management.-->
-- [x] **Bootstrap & FontAwesome**
+- [x] Bootstrap & FontAwesome
     <!--* Enhanced the user interface with responsive design and visually appealing icons.-->
-- [x] **Visual Studio 2022**
+- [x] Visual Studio 2022
     <!--* IDE used, leveraging its comprehensive suite of tools for .NET development.-->
 
 
 ## Architecture
 
-- [x] **Model-View-Controller (MVC) Architectural Pattern** 
+- [x] Model-View-Controller (MVC) Architectural Pattern
     <!--* The application follows the MVC architectural pattern.-->
-- [x] **Entity Framework Core DB First Approach:** 
+- [x] Entity Framework Core DB First Approach
     <!--* Directly mapped the database schema to the business domain entities, resulting in a database-driven application design.-->
-- [x] **Dependency Injection (DI) Design Pattern:** 
+- [x] Dependency Injection (DI) Design Pattern 
     <!--* Leveraged built-in dependency injection in ASP.NET Core for managing services and database context, ensuring loose coupling and testability.-->
 
 
 ## Methodologies
 
-- [x] **CRUD Operations** 
+- [x] CRUD Operations
     <!--* Implementation of basic database operations: Create, Read, Update, Delete.-->
-- [x] **Containerized Database** 
+- [x] Containerized Database
     <!--* Deployed Azure SQL Edge within a Docker container-->
-- [x] **Client-side and Server-side Validation** 
+- [x] Client-side and Server-side Validation
     <!--* Ensuring data integrity both on the client and server sides.-->
-- [x] **Database Migrations** 
+- [x] Database Migrations
     <!--* Utilized EF Core migrations for updating and managing the database schema.-->
 
 
