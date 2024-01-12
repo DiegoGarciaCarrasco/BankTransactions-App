@@ -8,15 +8,15 @@ This project demonstrates CRUD (Create, Read, Update, Delete) operations in an A
 ### Technologies Used
 
 * **ASP.NET Core MVC:** 
-    * A framework for building web applications using the Model-View-Controller pattern
+    * Utilized for crafting the web application using the MVC design pattern, ensuring a clean separation of concerns and enhanced maintainability.
 * **Entity Framework Core:** 
-    * (An Object-Relational Mapping (ORM) framework for .NET)
-* **Visual Studio 2022:** 
-    * (Integrated Development Environment (IDE) used for development)
-* **Azure SQL Edge:** 
-    * (Advanced, containerized SQL Server database optimized for IoT and edge deployments, running in a Docker container)
+    * Employed for efficient Object-Relational Mapping, enabling seamless interactions between the application and the SQL database.
+* **Azure SQL Edge (Docker Container):** 
+    * Integrated a high-performance, scalable SQL database using Docker.
 * **Bootstrap & FontAwesome:** 
-    * (Front-end libraries for styling and icons)
+    * Enhanced the user interface with responsive design and visually appealing icons.
+* **Visual Studio 2022:** 
+    * IDE used, leveraging its comprehensive suite of tools for .NET development.
 
 
 ### Architecture
