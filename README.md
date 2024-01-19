@@ -9,9 +9,9 @@
 
 The following functionality is achieved:
 
-- [x] User can add a new transaction.
-- [x] User can edit a transaction.
-- [x] User can remove a transaction.
+- [x] User can add a new bank transaction.
+- [x] User can edit a bank transaction.
+- [x] User can remove a bank transaction.
 
 ---
 
