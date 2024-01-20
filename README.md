@@ -25,13 +25,11 @@ The following functionality is achieved:
     <!-- Integrated a high-performance, scalable SQL database using Docker.-->
 - [x] Bootstrap & FontAwesome
     <!-- Enhanced the user interface with responsive design and visually appealing icons.-->
-
-
-- [x] Azure Data Studio (DB Visualization)
+- [ ] Azure Data Studio (DB Visualization)
     <!-- Used for database management and query execution, enhancing database interaction and management.-->
-- [x] Docker (Containerized DB)
+- [ ] Docker (Containerized DB)
     <!-- -->
-- [x] Visual Studio IDE
+- [ ] Visual Studio IDE
     <!-- IDE used, leveraging its comprehensive suite of tools for .NET development.-->
 
 
