@@ -18,17 +18,21 @@ The following functionality is achieved:
 ## Technologies and Tools
 
 - [x] ASP.NET Core MVC
-    <!--* Utilized for crafting the web application using the MVC design pattern, ensuring a clean separation of concerns and enhanced maintainability.-->
+    <!-- Utilized for crafting the web application using the MVC design pattern, ensuring a clean separation of concerns and enhanced maintainability.-->
 - [x] Entity Framework Core
-    <!--* Employed for efficient Object-Relational Mapping, enabling seamless interactions between the application and the SQL database.-->
-- [x] Azure SQL Edge in Docker Container
-    <!--* Integrated a high-performance, scalable SQL database using Docker.-->
-- [x] Azure Data Studio
-    <!--* Used for database management and query execution, enhancing database interaction and management.-->
+    <!-- Employed for efficient Object-Relational Mapping, enabling seamless interactions between the application and the SQL database.-->
+- [x] Azure SQL Edge
+    <!-- Integrated a high-performance, scalable SQL database using Docker.-->
 - [x] Bootstrap & FontAwesome
-    <!--* Enhanced the user interface with responsive design and visually appealing icons.-->
-- [x] Visual Studio 2022
-    <!--* IDE used, leveraging its comprehensive suite of tools for .NET development.-->
+    <!-- Enhanced the user interface with responsive design and visually appealing icons.-->
+
+
+- [x] Azure Data Studio (DB Visualization)
+    <!-- Used for database management and query execution, enhancing database interaction and management.-->
+- [x] Docker (Containerized DB)
+    <!-- -->
+- [x] Visual Studio IDE
+    <!-- IDE used, leveraging its comprehensive suite of tools for .NET development.-->
 
 
 ## Architecture
