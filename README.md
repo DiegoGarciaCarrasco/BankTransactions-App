@@ -15,7 +15,7 @@ The following functionality is achieved:
 
 ---
 
-## Technologies and Tools
+### Technologies and Tools
 
 - [x] ASP.NET Core MVC
     <!-- Utilized for crafting the web application using the MVC design pattern, ensuring a clean separation of concerns and enhanced maintainability.-->
@@ -33,7 +33,7 @@ The following functionality is achieved:
     <!-- IDE used, leveraging its comprehensive suite of tools for .NET development.-->
 
 
-## Architecture
+### Architecture
 
 - [x] Model-View-Controller (MVC) Architectural Pattern
     <!--* The application follows the MVC architectural pattern.-->
@@ -43,7 +43,7 @@ The following functionality is achieved:
     <!--* Leveraged built-in dependency injection in ASP.NET Core for managing services and database context, ensuring loose coupling and testability.-->
 
 
-## Methodologies
+### Methodologies
 
 - [x] CRUD Operations
     <!--* Implementation of basic database operations: Create, Read, Update, Delete.-->
