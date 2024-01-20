@@ -21,7 +21,7 @@ The following functionality is achieved:
     <!--* Utilized for crafting the web application using the MVC design pattern, ensuring a clean separation of concerns and enhanced maintainability.-->
 - [x] Entity Framework Core
     <!--* Employed for efficient Object-Relational Mapping, enabling seamless interactions between the application and the SQL database.-->
-- [x] Azure SQL Edge (Docker Container)
+- [x] Azure SQL Edge in Docker Container
     <!--* Integrated a high-performance, scalable SQL database using Docker.-->
 - [x] Azure Data Studio
     <!--* Used for database management and query execution, enhancing database interaction and management.-->
