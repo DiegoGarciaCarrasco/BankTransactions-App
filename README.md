@@ -1,37 +1,39 @@
 # BankTransactions Asp.Net App
 
-## Overview
+### Overview
 
 This ASP.NET Core MVC application utilizes Entity Framework Core for CRUD operations and integrates a containerized Azure SQL Edge database, demonstrating advanced database technology in web development.
 
 
-## User Stories
+### User Stories
 
 The following functionality is achieved:
 
-- [x] User can add a new transaction.
-- [x] User can edit a transaction.
-- [x] User can remove a transaction.
+- [x] User can add a new bank transaction.
+- [x] User can edit a bank transaction.
+- [x] User can remove a bank transaction.
 
 ---
 
-## Technologies and Tools
+### Technologies and Tools
 
 - [x] ASP.NET Core MVC
-    <!--* Utilized for crafting the web application using the MVC design pattern, ensuring a clean separation of concerns and enhanced maintainability.-->
+    <!-- Utilized for crafting the web application using the MVC design pattern, ensuring a clean separation of concerns and enhanced maintainability.-->
 - [x] Entity Framework Core
-    <!--* Employed for efficient Object-Relational Mapping, enabling seamless interactions between the application and the SQL database.-->
-- [x] Azure SQL Edge (Docker Container)
-    <!--* Integrated a high-performance, scalable SQL database using Docker.-->
-- [x] Azure Data Studio
-    <!--* Used for database management and query execution, enhancing database interaction and management.-->
+    <!-- Employed for efficient Object-Relational Mapping, enabling seamless interactions between the application and the SQL database.-->
+- [x] Azure SQL Edge
+    <!-- Integrated a high-performance, scalable SQL database using Docker.-->
 - [x] Bootstrap & FontAwesome
-    <!--* Enhanced the user interface with responsive design and visually appealing icons.-->
-- [x] Visual Studio 2022
-    <!--* IDE used, leveraging its comprehensive suite of tools for .NET development.-->
+    <!-- Enhanced the user interface with responsive design and visually appealing icons.-->
+- [x] *Azure Data Studio (DB Visualization)
+    <!-- Used for database management and query execution, enhancing database interaction and management.-->
+- [x] *Docker (Containerized DB)
+    <!-- -->
+- [x] *Visual Studio IDE
+    <!-- IDE used, leveraging its comprehensive suite of tools for .NET development.-->
 
 
-## Architecture
+### Architecture
 
 - [x] Model-View-Controller (MVC) Architectural Pattern
     <!--* The application follows the MVC architectural pattern.-->
@@ -41,7 +43,7 @@ The following functionality is achieved:
     <!--* Leveraged built-in dependency injection in ASP.NET Core for managing services and database context, ensuring loose coupling and testability.-->
 
 
-## Methodologies
+### Methodologies
 
 - [x] CRUD Operations
     <!--* Implementation of basic database operations: Create, Read, Update, Delete.-->
@@ -59,10 +61,10 @@ The following functionality is achieved:
 
 ### App setup
 
-* **1 - Azure SQL Edge running within a Docker container.** 
+* **1 - 'Azure SQL Edge' running within a Docker container.** 
 ![image-1](./images/SS1.png)
 
-* **2 - Azure Data Studio displaying the Transaction DB.** 
+* **2 - 'Azure Data Studio' displaying the Transactions DB.** 
 ![image-2](./images/SS2.png)
 
 * **3 - Project's structure, displaying the 'TransactionController.cs' file, central to CRUD operations.**
