@@ -2,7 +2,7 @@
 
 ### Overview
 
-This ASP.NET Core MVC application utilizes Entity Framework Core for CRUD operations and integrates a containerized Azure SQL Edge database, demonstrating advanced database technology in web development.
+This ASP.NET Core MVC application utilizes Entity Framework Core for CRUD operations and integrates a Docker containerized 'Azure SQL Edge' database, demonstrating advanced database technology in web development.
 
 
 ### User Stories
