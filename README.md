@@ -61,6 +61,14 @@ The following functionality is achieved:
 
 ### App setup
 
+```
+# Pull Image
+docker pull mcr.microsoft.com/azure-sql-edge
+
+# Launch Docker Image
+docker run --cap-add SYS_PTRACE -e 'ACCEPT_EULA=1' -e 'MSSQL_SA_PASSWORD=MyStrongPassword!' -p 1433:1433 --name azuresqledge -d mcr.microsoft.com/azure-sql-edge
+```
+
 * **1 - 'Azure SQL Edge' running within a Docker container.** 
 ![image-1](./images/SS1.png)
 
