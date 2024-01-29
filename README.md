@@ -65,7 +65,8 @@ The following functionality is achieved:
 ![image-1](./images/SS1.png)
 
 * **2 - 'Azure Data Studio' displaying the Transactions DB.** 
-![image-2](./images/SS2.png)
+![image-2-1](./images/SS2-1.png)
+![image-2-2](./images/SS2-2.png)
 
 * **3 - Project's structure, displaying the 'TransactionController.cs' file, central to CRUD operations.**
 ![image-3](./images/SS3.png)
