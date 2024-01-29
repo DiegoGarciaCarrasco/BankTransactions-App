@@ -124,13 +124,14 @@ The following functionality is achieved:
 
 * This project exemplifies modern web application development, merging ASP.NET Core MVC with Entity Framework Core and Dockerized Azure SQL Edge, showcasing advanced integration of key technologies and best practices.
 
+&nbsp;
 
 ## Resources
 
 * https://hub.docker.com/_/microsoft-azure-sql-edge
 * https://victoryoalli.me/using-docker
 
-```PowerShell
+```Shell
 # Pull Image
 docker pull mcr.microsoft.com/azure-sql-edge:latest
 
