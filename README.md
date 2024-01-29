@@ -132,7 +132,7 @@ The following functionality is achieved:
 
 ```shell
 # Pull Image
-docker pull mcr.microsoft.com/azure-sql-edge
+docker pull mcr.microsoft.com/azure-sql-edge:latest
 
 # Launch Docker Image
 docker run --cap-add SYS_PTRACE -e 'ACCEPT_EULA=1' -e 'MSSQL_SA_PASSWORD=MyStrongPassword' -p 1433:1433 --name azuresqledge -d mcr.microsoft.com/azure-sql-edge
