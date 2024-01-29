@@ -130,7 +130,7 @@ The following functionality is achieved:
 * https://hub.docker.com/_/microsoft-azure-sql-edge
 * https://victoryoalli.me/using-docker
 
-```
+```shell
 # Pull Image
 docker pull mcr.microsoft.com/azure-sql-edge
 
