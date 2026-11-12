@@ -186,7 +186,7 @@ BankTransactions/
 
 ## Walkthrough
 
-<details>
+<details open>
 <summary><b>Setup: database running in Docker</b></summary>
 
 Azure SQL Edge running in a Docker container:
@@ -200,7 +200,7 @@ Project structure, with `TransactionController.cs` handling all CRUD operations:
 ![Project structure](./images/SS3.png)
 </details>
 
-<details>
+<details open>
 <summary><b>Edit a transaction</b></summary>
 
 1. The transaction list.
@@ -213,7 +213,7 @@ Project structure, with `TransactionController.cs` handling all CRUD operations:
    ![Updated](./images/SS7.png)
 </details>
 
-<details>
+<details open>
 <summary><b>Add a transaction</b></summary>
 
 1. Clicking **New Transaction**.
@@ -226,7 +226,7 @@ Project structure, with `TransactionController.cs` handling all CRUD operations:
    ![In DB](./images/SS11.png)
 </details>
 
-<details>
+<details open>
 <summary><b>Delete a transaction</b></summary>
 
 1. Clicking **Delete** on a row.
